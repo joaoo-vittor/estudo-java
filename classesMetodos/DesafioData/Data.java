@@ -1,8 +1,8 @@
 package DesafioData;
 
 public class Data {
-  
-  int dia;
+
+  public int dia;
   int mes;
   int ano;
 
@@ -10,20 +10,22 @@ public class Data {
   //   return dia + "/" + mes + "/" + ano;
   // }
 
-  Data(int diaInicial, int mesInicial, int anoInicial) {
-    dia = diaInicial;
-    mes = mesInicial;
-    ano = anoInicial;
-  }
-  
-  Data() {
-    dia = 1;
-    mes = 1;
-    ano = 1970;
+  public Data(int dia, int mes, int ano) {
+    this.dia = dia;
+    this.mes = mes;
+    this.ano = ano;
   }
 
-  String dataFormatada() {
-    return String.format("%d/%d/%d", dia, mes, ano);
+  public Data() {
+    // dia = 1;
+    // mes = 1;
+    // ano = 1970;
+    this(1, 1, 1970);
+  }
+
+  public String dataFormatada() {
+    String formato = "%d/%d/%d";
+    return String.format(formato, this.dia, this.mes, this.ano);
   }
 
 }

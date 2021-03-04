@@ -11,7 +11,7 @@ public class Produto {
   //   double precoFinal = preco - (preco * (desconto / 100));
   //   return precoFinal;
   // }
-  
+
   double precoComDesconto() {
     return preco - (preco * (desconto / 100));
   }

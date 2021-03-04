@@ -2,25 +2,14 @@ package ClasseProduto;
 
 public class ProdutoTeste {
   public static void main(String[] args) {
-    
-    Produto p1 = new Produto();
-    p1.nome = "Notebook";
-    p1.preco = 2515.15;
-    p1.desconto = 0.25;
-    
-    var p2 = new Produto();
-    p2.nome = "iPhone";
-    p2.preco = 7515.15;
-    p2.desconto = 0.15;
-    
-    System.out.println(p1.nome);
-    System.out.println(p2.nome);
 
-    double precoFinal1 = p1.preco * (1 - p1.desconto);
-    double precoFinal2 = p2.preco * (1 - p2.desconto);
-    double mediaCarrinho = (precoFinal1 + precoFinal2) / 2;
+    Produto p1 = new Produto("Notebook", 4356.89);
+    var p2 = new Produto("iPhone", 7515.15);
 
-    System.out.printf("Média do carrinho = %.2f\n", mediaCarrinho);
+    Produto.desconto = 0.50;
 
-  } 
+    System.out.printf("Nome: %s \nPreco: %.2f \n", p1.nome, p1.precoComDesconto());
+    System.out.printf("Nome: %s \nPreco: %.2f \n", p2.nome, p2.precoComDesconto());
+
+  }
 }
