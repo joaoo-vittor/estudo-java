@@ -2,7 +2,13 @@ package Heranca;
 
 public class Heroi extends Jogador {
 
-  boolean atacar(Jogador oponente) {
+  // Construtor padrão
+  public Heroi(int x, int y) {
+    super(x, y);
+  }
+
+  @Override
+  public boolean atacar(Jogador oponente) {
 
     boolean ataque1 = super.atacar(oponente);
     boolean ataque2 = super.atacar(oponente);
