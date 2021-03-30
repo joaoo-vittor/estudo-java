@@ -12,15 +12,14 @@ public class CarroTeste {
 
     System.out.println("Velocidade Ferrari "+ferrari);
 
+    ferrari.ligarTurbo();
     ferrari.acelerar();
     ferrari.acelerar();
     ferrari.acelerar();
+    ferrari.ligarAr();
 
-    ferrari.freiar();
-    ferrari.freiar();
-    ferrari.freiar();
-    ferrari.freiar();
-    ferrari.freiar();
+    System.out.println(ferrari.nivelDoAr());
+
     ferrari.freiar();
     ferrari.freiar();
     ferrari.freiar();
