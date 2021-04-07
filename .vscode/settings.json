@@ -1,4 +1,8 @@
 {
   "python.formatting.provider": "black",
-  "java.dependency.packagePresentation": "hierarchical"
+  "java.dependency.packagePresentation": "hierarchical",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "junit-platform-console-standalone-1.7.0-M1.jar"
+  ]
 }
