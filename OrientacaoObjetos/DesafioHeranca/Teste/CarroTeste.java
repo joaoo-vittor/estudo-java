@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 package OrientacaoObjetos.DesafioHeranca.Teste;
 
 import OrientacaoObjetos.DesafioHeranca.Carro;
 import OrientacaoObjetos.DesafioHeranca.Civic;
 import OrientacaoObjetos.DesafioHeranca.Ferrari;
+=======
+package DesafioHeranca.Teste;
+
+import DesafioHeranca.Carro;
+import DesafioHeranca.Civic;
+import DesafioHeranca.Ferrari;
+>>>>>>> de63cc0128d8eb20c858b9c57f816095a08a85ce
 
 public class CarroTeste {
   public static void main(String[] args) {

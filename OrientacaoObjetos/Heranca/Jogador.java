@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package OrientacaoObjetos.Heranca;
+=======
+package Heranca;
+>>>>>>> de63cc0128d8eb20c858b9c57f816095a08a85ce
 
 public class Jogador {
 
@@ -28,8 +32,13 @@ public class Jogador {
 
   }
 
+<<<<<<< HEAD
   public boolean andar(OrientacaoObjetos.Enumm.Direcao norte) {
     switch (norte) {
+=======
+  public boolean andar(Direcao direcao) {
+    switch (direcao) {
+>>>>>>> de63cc0128d8eb20c858b9c57f816095a08a85ce
       case NORTE:
         y--;
         break;

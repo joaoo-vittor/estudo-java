@@ -1,15 +1,26 @@
+<<<<<<< HEAD
 package CampoMinado.com.estudoJava.campoMinado.modelo;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 import static org.junit.jupiter.api.Assertions.assertTrue;
+=======
+package com.estudoJava.campoMinado.modelo;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import com.estudoJava.campoMinado.Excecao.ExplosaoExeption;
+>>>>>>> de63cc0128d8eb20c858b9c57f816095a08a85ce
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+<<<<<<< HEAD
 import CampoMinado.src.com.estudoJava.campoMinado.Excecao.ExplosaoExeption;
 import CampoMinado.src.com.estudoJava.campoMinado.modelo.Campo;
 
+=======
+>>>>>>> de63cc0128d8eb20c858b9c57f816095a08a85ce
 public class CampoTeste {
 
   private Campo campo;

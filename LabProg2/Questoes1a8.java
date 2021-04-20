@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 package LabProg2;
 
+=======
+>>>>>>> de63cc0128d8eb20c858b9c57f816095a08a85ce
 public class Questoes1a8 {
   public static void main(String[] args) {
     int x = 2;

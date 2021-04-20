@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "java.project.referencedLibraries": [
     "lib/**/*.jar",
     "junit-platform-console-standalone-1.7.0-M1.jar"
@@ -6,5 +7,12 @@
   "java.project.sourcePaths": [
     "Generics",
     "DesktopComSwing"
+=======
+  "python.formatting.provider": "black",
+  "java.dependency.packagePresentation": "hierarchical",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "junit-platform-console-standalone-1.7.0-M1.jar"
+>>>>>>> de63cc0128d8eb20c858b9c57f816095a08a85ce
   ]
 }

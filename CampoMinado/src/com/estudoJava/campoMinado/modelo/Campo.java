@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 package CampoMinado.src.com.estudoJava.campoMinado.modelo;
+=======
+package com.estudoJava.campoMinado.modelo;
+>>>>>>> de63cc0128d8eb20c858b9c57f816095a08a85ce
 
 import java.util.ArrayList;
 import java.util.List;
 
+<<<<<<< HEAD
 import CampoMinado.src.com.estudoJava.campoMinado.Excecao.ExplosaoExeption;
 
+=======
+import com.estudoJava.campoMinado.Excecao.ExplosaoExeption;
+>>>>>>> de63cc0128d8eb20c858b9c57f816095a08a85ce
 
 public class Campo {
 
@@ -22,7 +30,11 @@ public class Campo {
     this.coluna = coluna;
   }
 
+<<<<<<< HEAD
   public boolean adicionarVizinho(Campo vizinho) {
+=======
+  boolean adicionarVizinho(Campo vizinho) {
+>>>>>>> de63cc0128d8eb20c858b9c57f816095a08a85ce
     boolean linhaDiferente = linha != vizinho.linha;
     boolean colunaDiferente = coluna != vizinho.coluna;
     boolean diagonal = linhaDiferente && colunaDiferente;
@@ -43,13 +55,21 @@ public class Campo {
 
   }
 
+<<<<<<< HEAD
   public void alternarMarcacao() {
+=======
+  void alternarMarcacao() {
+>>>>>>> de63cc0128d8eb20c858b9c57f816095a08a85ce
     if (!this.aberto) {
       this.marcado = !this.marcado;
     }
   }
 
+<<<<<<< HEAD
   public boolean abrir() {
+=======
+  boolean abrir() {
+>>>>>>> de63cc0128d8eb20c858b9c57f816095a08a85ce
     if (!this.aberto && !this.marcado) {
       this.aberto = true;
 
@@ -70,7 +90,11 @@ public class Campo {
     return this.vizinhos.stream().noneMatch(v -> v.minado);
   }
 
+<<<<<<< HEAD
   public void minar() {
+=======
+  void minar() {
+>>>>>>> de63cc0128d8eb20c858b9c57f816095a08a85ce
     this.minado = true;
   }
 

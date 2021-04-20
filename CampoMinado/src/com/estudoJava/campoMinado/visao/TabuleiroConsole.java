@@ -1,12 +1,22 @@
+<<<<<<< HEAD
 package CampoMinado.src.com.estudoJava.campoMinado.visao;
+=======
+package com.estudoJava.campoMinado.visao;
+>>>>>>> de63cc0128d8eb20c858b9c57f816095a08a85ce
 
 import java.util.Arrays;
 import java.util.Iterator;
 import java.util.Scanner;
 
+<<<<<<< HEAD
 import CampoMinado.src.com.estudoJava.campoMinado.Excecao.ExplosaoExeption;
 import CampoMinado.src.com.estudoJava.campoMinado.Excecao.SairExeption;
 import CampoMinado.src.com.estudoJava.campoMinado.modelo.Tabuleiro;
+=======
+import com.estudoJava.campoMinado.Excecao.ExplosaoExeption;
+import com.estudoJava.campoMinado.Excecao.SairExeption;
+import com.estudoJava.campoMinado.modelo.Tabuleiro;
+>>>>>>> de63cc0128d8eb20c858b9c57f816095a08a85ce
 
 public class TabuleiroConsole {
 
