@@ -1,4 +1,4 @@
-package StringParaNumero;
+package fundamentos.StringParaNumero;
 
 import javax.swing.JOptionPane;
 

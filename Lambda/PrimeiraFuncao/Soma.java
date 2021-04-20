@@ -1,4 +1,4 @@
-package PrimeiraFuncao;
+package Lambda.PrimeiraFuncao;
 
 public class Soma implements Calculo {
 

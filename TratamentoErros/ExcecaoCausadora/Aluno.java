@@ -1,4 +1,4 @@
-package ExcecaoCausadora;
+package TratamentoErros.ExcecaoCausadora;
 
 public class Aluno {
 

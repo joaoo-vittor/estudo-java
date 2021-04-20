@@ -1,4 +1,4 @@
-package RelacionamentoUmParaM;
+package OrientacaoObjetos.RelacionamentoUmParaM;
 
 import java.util.ArrayList;
 

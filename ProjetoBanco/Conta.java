@@ -1,3 +1,5 @@
+package ProjetoBanco;
+
 public abstract class Conta {
 
   public abstract String verSaldo();

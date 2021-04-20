@@ -1,3 +1,5 @@
+package Teste;
+
 import java.util.Scanner;
 
 public class Questao7 {

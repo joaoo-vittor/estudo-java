@@ -1,4 +1,4 @@
-package VariaveisConstante;
+package fundamentos.VariaveisConstante;
 
 public class VariavelConstante {
   public static void main(String[] args) {

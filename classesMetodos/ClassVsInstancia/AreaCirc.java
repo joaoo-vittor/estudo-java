@@ -1,4 +1,4 @@
-package ClassVsInstancia;
+package classesMetodos.ClassVsInstancia;
 
 public class AreaCirc {
   

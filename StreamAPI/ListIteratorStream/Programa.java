@@ -1,4 +1,4 @@
-package ListIteratorStream;
+package StreamAPI.ListIteratorStream;
 
 import java.util.Arrays;
 import java.util.Iterator;

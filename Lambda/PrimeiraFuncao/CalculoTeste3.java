@@ -1,4 +1,4 @@
-package PrimeiraFuncao;
+package Lambda.PrimeiraFuncao;
 
 import java.util.function.BinaryOperator;
 

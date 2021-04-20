@@ -1,4 +1,4 @@
-package TiposPrimitivos;
+package fundamentos.TiposPrimitivos;
 /*
 Tipos Primitivos
 => Numeros

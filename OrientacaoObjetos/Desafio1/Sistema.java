@@ -1,4 +1,4 @@
-package Desafio1;
+package OrientacaoObjetos.Desafio1;
 
 public class Sistema {
   public static void main(String[] args) {

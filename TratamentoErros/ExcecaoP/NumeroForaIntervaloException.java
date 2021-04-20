@@ -1,7 +1,7 @@
-package ExcecaoP;
+package TratamentoErros.ExcecaoP;
 
-@SuppressWarnings("serial")
-public class NumeroForaIntervaloException extends Exception {
+// @SuppressWarnings("serial")
+public class NumeroForaIntervaloException extends Exception { 
 
   private String nomeAtributo;
 

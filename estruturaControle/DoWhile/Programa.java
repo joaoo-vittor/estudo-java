@@ -1,4 +1,4 @@
-package DoWhile;
+package estruturaControle.DoWhile;
 
 import java.util.Scanner;
 

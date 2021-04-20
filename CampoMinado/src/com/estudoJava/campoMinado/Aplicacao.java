@@ -1,7 +1,7 @@
-package com.estudoJava.campoMinado;
+package CampoMinado.src.com.estudoJava.campoMinado;
 
-import com.estudoJava.campoMinado.modelo.Tabuleiro;
-import com.estudoJava.campoMinado.visao.TabuleiroConsole;
+import CampoMinado.src.com.estudoJava.campoMinado.modelo.Tabuleiro;
+import CampoMinado.src.com.estudoJava.campoMinado.visao.TabuleiroConsole;
 
 public class Aplicacao {
   public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package BasicoSobreExcecao;
+package TratamentoErros.BasicoSobreExcecao;
 
 public class Aluno {
 

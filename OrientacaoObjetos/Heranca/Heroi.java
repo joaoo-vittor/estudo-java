@@ -1,4 +1,4 @@
-package Heranca;
+package OrientacaoObjetos.Heranca;
 
 public class Heroi extends Jogador {
 

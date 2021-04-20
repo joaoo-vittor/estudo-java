@@ -1,4 +1,4 @@
-package Reduce;
+package StreamAPI.Reduce;
 
 public class Media {
 

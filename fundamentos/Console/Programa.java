@@ -1,4 +1,4 @@
-package Console;
+package fundamentos.Console;
 
 import java.util.Scanner;
 

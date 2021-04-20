@@ -1,4 +1,4 @@
-package CriandoStream;
+package StreamAPI.CriandoStream;
 
 import java.util.Arrays;
 import java.util.List;

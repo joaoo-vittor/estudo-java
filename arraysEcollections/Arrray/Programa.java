@@ -1,4 +1,4 @@
-package Arrray;
+package arraysEcollections.Arrray;
 
 import java.util.Arrays;
 

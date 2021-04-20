@@ -1,4 +1,4 @@
-package PrimeiraFuncao;
+package Lambda.PrimeiraFuncao;
 
 // Só permite um método dentro da interface
 @FunctionalInterface

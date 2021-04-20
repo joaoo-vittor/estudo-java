@@ -1,4 +1,4 @@
-package Equalss;
+package arraysEcollections.Equalss;
 
 public class ProgramaTeste {
   public static void main(String[] args) {

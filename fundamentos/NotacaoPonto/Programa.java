@@ -1,4 +1,4 @@
-package NotacaoPonto;
+package fundamentos.NotacaoPonto;
 
 public class Programa {
   public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Heranca;
+package OrientacaoObjetos.Heranca;
 
 public enum Direcao {
 

@@ -1,4 +1,4 @@
-package ClasseAbstrata;
+package OrientacaoObjetos.ClasseAbstrata;
 
 public abstract class Animal {
 

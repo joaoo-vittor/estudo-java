@@ -1,4 +1,4 @@
-package Desafio1;
+package fundamentos.Desafio1;
 
 public class Projeto {
   public static void main(String[] args) {

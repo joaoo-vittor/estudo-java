@@ -1,4 +1,4 @@
-package While;
+package estruturaControle.While;
 
 import java.util.Scanner;
 

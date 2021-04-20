@@ -1,4 +1,4 @@
-package ExcecaoChecadaVsNaoChecada;
+package TratamentoErros.ExcecaoChecadaVsNaoChecada;
 
 public class ChecadaVsNaoChecada {
   public static void main(String[] args) {

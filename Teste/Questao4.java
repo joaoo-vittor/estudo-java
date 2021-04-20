@@ -1,3 +1,5 @@
+package Teste;
+
 public class Questao4 {
   public static void main(String[] args) {
     int acc_par = 0;

@@ -1,4 +1,4 @@
-package Polimorfismo;
+package OrientacaoObjetos.Polimorfismo;
 
 public class Sorvete extends Comida {
   // private double peso;

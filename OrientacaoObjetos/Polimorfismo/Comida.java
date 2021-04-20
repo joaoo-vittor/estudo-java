@@ -1,4 +1,4 @@
-package Polimorfismo;
+package OrientacaoObjetos.Polimorfismo;
 
 public abstract class Comida {
   // Super classe

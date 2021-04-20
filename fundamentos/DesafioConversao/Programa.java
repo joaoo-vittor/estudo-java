@@ -1,4 +1,4 @@
-package DesafioConversao;
+package fundamentos.DesafioConversao;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package MinEMax;
+package StreamAPI.MinEMax;
 
 public class Aluno {
 

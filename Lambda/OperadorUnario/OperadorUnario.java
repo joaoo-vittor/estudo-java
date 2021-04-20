@@ -1,4 +1,4 @@
-package OperadorUnario;
+package Lambda.OperadorUnario;
 
 import java.util.function.UnaryOperator;
 

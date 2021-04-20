@@ -1,4 +1,4 @@
-package OutrosMetodos;
+package StreamAPI.OutrosMetodos;
 
 public class Aluno {
 

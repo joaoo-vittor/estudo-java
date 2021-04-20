@@ -1,4 +1,4 @@
-package com.estudoJava.campoMinado.Excecao;
+package CampoMinado.src.com.estudoJava.campoMinado.Excecao;
 
 public class SairExeption extends RuntimeException {
 

@@ -1,4 +1,4 @@
-package Desafio;
+package Lambda.Desafio;
 
 import java.util.function.Function;
 import java.util.function.UnaryOperator;

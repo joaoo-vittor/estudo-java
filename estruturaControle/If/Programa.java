@@ -1,4 +1,4 @@
-package If;
+package estruturaControle.If;
 
 import java.util.Scanner;
 

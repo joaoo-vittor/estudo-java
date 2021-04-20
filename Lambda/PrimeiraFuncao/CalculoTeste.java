@@ -1,4 +1,4 @@
-package PrimeiraFuncao;
+package Lambda.PrimeiraFuncao;
 
 public class CalculoTeste {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package IguadadeString;
+package fundamentos.IguadadeString;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Enumm;
+package OrientacaoObjetos.Enumm;
 
 public enum Direcao {
 

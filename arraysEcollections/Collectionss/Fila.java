@@ -1,4 +1,4 @@
-package Collectionss;
+package arraysEcollections.Collectionss;
 
 import java.util.LinkedList;
 import java.util.Queue;

@@ -1,4 +1,4 @@
-package RelacionamentoUmParaUm;
+package OrientacaoObjetos.RelacionamentoUmParaUm;
 
 public class Motor {
 

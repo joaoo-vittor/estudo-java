@@ -1,4 +1,4 @@
-package Reduce;
+package StreamAPI.Reduce;
 
 import java.util.Arrays;
 import java.util.List;

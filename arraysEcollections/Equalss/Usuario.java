@@ -1,4 +1,4 @@
-package Equalss;
+package arraysEcollections.Equalss;
 
 public class Usuario {
 

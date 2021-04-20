@@ -1,4 +1,4 @@
-package Map;
+package StreamAPI.Map;
 
 import java.util.function.UnaryOperator;
 

@@ -1,4 +1,4 @@
-package Construtor;
+package classesMetodos.Construtor;
 
 public class ProdutoTeste {
   public static void main(String[] args) {

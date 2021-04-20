@@ -1,4 +1,4 @@
-package Consumidor;
+package Lambda.Consumidor;
 
 public class Produto {
 

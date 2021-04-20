@@ -1,4 +1,4 @@
-package While;
+package estruturaControle.While;
 
 public class Programa {
   public static void main(String[] args) {

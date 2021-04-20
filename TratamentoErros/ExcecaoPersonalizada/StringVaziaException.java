@@ -1,6 +1,6 @@
-package ExcecaoPersonalizada;
+package TratamentoErros.ExcecaoPersonalizada;
 
-@SuppressWarnings("serial")
+// @SuppressWarnings("serial")
 public class StringVaziaException extends RuntimeException {
 
   private String nomeAtributo;

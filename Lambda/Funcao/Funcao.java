@@ -1,4 +1,4 @@
-package Funcao;
+package Lambda.Funcao;
 
 import java.util.function.Function;
 

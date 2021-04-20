@@ -1,4 +1,4 @@
-package NovoPrograma.Modulo;
+package fundamentos.NovoPrograma.Modulo;
 
 public class Modulo {
   

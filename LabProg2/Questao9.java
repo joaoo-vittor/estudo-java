@@ -1,3 +1,5 @@
+package LabProg2;
+
 import java.util.Scanner;
 
 public class Questao9 {

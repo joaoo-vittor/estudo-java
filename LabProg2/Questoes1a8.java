@@ -1,3 +1,5 @@
+package LabProg2;
+
 public class Questoes1a8 {
   public static void main(String[] args) {
     int x = 2;

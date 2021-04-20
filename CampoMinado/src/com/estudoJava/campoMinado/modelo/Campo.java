@@ -1,9 +1,10 @@
-package com.estudoJava.campoMinado.modelo;
+package CampoMinado.src.com.estudoJava.campoMinado.modelo;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.estudoJava.campoMinado.Excecao.ExplosaoExeption;
+import CampoMinado.src.com.estudoJava.campoMinado.Excecao.ExplosaoExeption;
+
 
 public class Campo {
 
@@ -21,7 +22,7 @@ public class Campo {
     this.coluna = coluna;
   }
 
-  boolean adicionarVizinho(Campo vizinho) {
+  public boolean adicionarVizinho(Campo vizinho) {
     boolean linhaDiferente = linha != vizinho.linha;
     boolean colunaDiferente = coluna != vizinho.coluna;
     boolean diagonal = linhaDiferente && colunaDiferente;
@@ -42,13 +43,13 @@ public class Campo {
 
   }
 
-  void alternarMarcacao() {
+  public void alternarMarcacao() {
     if (!this.aberto) {
       this.marcado = !this.marcado;
     }
   }
 
-  boolean abrir() {
+  public boolean abrir() {
     if (!this.aberto && !this.marcado) {
       this.aberto = true;
 
@@ -69,7 +70,7 @@ public class Campo {
     return this.vizinhos.stream().noneMatch(v -> v.minado);
   }
 
-  void minar() {
+  public void minar() {
     this.minado = true;
   }
 

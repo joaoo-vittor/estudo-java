@@ -1,4 +1,4 @@
-package DesafioHeranca;
+package OrientacaoObjetos.DesafioHeranca;
 
 public interface Esportivo {
 

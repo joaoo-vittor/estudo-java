@@ -1,4 +1,4 @@
-package Predicado;
+package Lambda.Predicado;
 
 public class Produto {
 

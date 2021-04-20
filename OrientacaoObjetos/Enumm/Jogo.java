@@ -1,4 +1,4 @@
-package Enumm;
+package OrientacaoObjetos.Enumm;
 
 public class Jogo {
   public static void main(String[] args) {

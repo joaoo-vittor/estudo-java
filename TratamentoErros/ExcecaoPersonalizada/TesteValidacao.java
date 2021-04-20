@@ -1,4 +1,4 @@
-package ExcecaoPersonalizada;
+package TratamentoErros.ExcecaoPersonalizada;
 
 public class TesteValidacao {
   public static void main(String[] args) {

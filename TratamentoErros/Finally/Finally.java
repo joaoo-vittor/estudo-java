@@ -1,4 +1,4 @@
-package Finally;
+package TratamentoErros.Finally;
 
 import java.util.Scanner;
 

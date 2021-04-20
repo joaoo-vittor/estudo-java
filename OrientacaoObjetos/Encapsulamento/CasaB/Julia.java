@@ -1,6 +1,6 @@
-package Encapsulamento.CasaB;
+package OrientacaoObjetos.Encapsulamento.CasaB;
 
-import Encapsulamento.CasaA.Ana;
+import OrientacaoObjetos.Encapsulamento.CasaA.Ana;
 
 public class Julia {
 

@@ -1,4 +1,4 @@
-package ClasseAbstrata;
+package OrientacaoObjetos.ClasseAbstrata;
 
 public class TesteAbstrato {
   public static void main(String[] args) {

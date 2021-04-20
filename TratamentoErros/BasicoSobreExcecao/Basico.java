@@ -1,4 +1,4 @@
-package BasicoSobreExcecao;
+package TratamentoErros.BasicoSobreExcecao;
 
 public class Basico {
   public static void main(String[] args) {

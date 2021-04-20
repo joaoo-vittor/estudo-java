@@ -1,4 +1,4 @@
-package RelacionamentoMparaM;
+package OrientacaoObjetos.RelacionamentoMparaM;
 
 import java.util.ArrayList;
 import java.util.List;

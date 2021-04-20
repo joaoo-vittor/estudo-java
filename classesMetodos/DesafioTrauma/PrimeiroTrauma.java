@@ -1,4 +1,4 @@
-package DesafioTrauma;
+package classesMetodos.DesafioTrauma;
 
 public class PrimeiroTrauma {
 

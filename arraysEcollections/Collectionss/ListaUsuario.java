@@ -1,4 +1,4 @@
-package Collectionss;
+package arraysEcollections.Collectionss;
 
 public class ListaUsuario {
 

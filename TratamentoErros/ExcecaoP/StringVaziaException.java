@@ -1,6 +1,6 @@
-package ExcecaoP;
+package TratamentoErros.ExcecaoP;
 
-@SuppressWarnings("serial")
+// @SuppressWarnings("serial")
 public class StringVaziaException extends Exception {
 
   private String nomeAtributo;

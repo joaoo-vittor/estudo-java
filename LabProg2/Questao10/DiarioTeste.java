@@ -1,4 +1,4 @@
-package Questao10;
+package LabProg2.Questao10;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package TipoStrings;
+package fundamentos.TipoStrings;
 
 public class Programa {
   public static void main(String[] args) {

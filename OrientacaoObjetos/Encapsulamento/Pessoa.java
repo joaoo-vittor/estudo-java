@@ -1,4 +1,4 @@
-package Encapsulamento;
+package OrientacaoObjetos.Encapsulamento;
 
 public class Pessoa {
 

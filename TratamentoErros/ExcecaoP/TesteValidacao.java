@@ -1,4 +1,4 @@
-package ExcecaoP;
+package TratamentoErros.ExcecaoP;
 
 public class TesteValidacao {
   public static void main(String[] args) {

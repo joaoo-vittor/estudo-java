@@ -1,4 +1,4 @@
-package Polimorfismo;
+package OrientacaoObjetos.Polimorfismo;
 
 public class Feijao extends Comida {
 

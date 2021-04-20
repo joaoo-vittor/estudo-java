@@ -1,4 +1,4 @@
-package Desafia1;
+package arraysEcollections.Desafia1;
 
 import java.util.Scanner;
 

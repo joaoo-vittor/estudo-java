@@ -1,4 +1,4 @@
-package Filter;
+package StreamAPI.Filter;
 
 public class Aluno {
 

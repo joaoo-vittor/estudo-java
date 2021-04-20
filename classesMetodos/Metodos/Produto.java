@@ -1,4 +1,4 @@
-package Metodos;
+package classesMetodos.Metodos;
 
 
 public class Produto {

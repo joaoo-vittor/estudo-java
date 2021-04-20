@@ -1,4 +1,4 @@
-package NovoPrograma;
+package fundamentos.NovoPrograma;
 
 public class Projeto {
   

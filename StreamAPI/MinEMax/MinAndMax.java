@@ -1,4 +1,4 @@
-package MinEMax;
+package StreamAPI.MinEMax;
 
 import java.util.Arrays;
 import java.util.Comparator;

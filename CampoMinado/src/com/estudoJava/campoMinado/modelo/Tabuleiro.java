@@ -1,10 +1,10 @@
-package com.estudoJava.campoMinado.modelo;
+package CampoMinado.src.com.estudoJava.campoMinado.modelo;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Predicate;
 
-import com.estudoJava.campoMinado.Excecao.ExplosaoExeption;
+import CampoMinado.src.com.estudoJava.campoMinado.Excecao.ExplosaoExeption;
 
 public class Tabuleiro {
 
