@@ -35,11 +35,9 @@ public class MainQuestao3 {
     System.out.println("\nImprimindo o baralho após retirar carta: ");
     baralho.imprimiBaralho();
 
-
     System.out.println("\nImprimindo o baralho após devolver uma carta: ");
     baralho.daCarta(carta3);
     baralho.imprimiBaralho();
-
 
     System.out.println("\nEmabaralhando o baralho após devolver uma carta: ");
     baralho.embaralha();

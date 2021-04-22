@@ -29,6 +29,10 @@ public class Colecao {
   }
 
   public void excluirRevista(Revista revista) {
+    if (!hasRevista(revista)) {
+      return;
+    }
+
     Revista[] auxColecao = new Revista[this.colecacaoFinal.length-1];
     if (this.colecacaoFinal.length > 1) {
       int j = 0;
@@ -41,6 +45,15 @@ public class Colecao {
       this.colecacaoFinal = auxColecao;
       this.qtdArray--;
     }
+  }
+
+  public boolean hasRevista(Revista revista) {
+    for (Revista rev : colecacaoAuxiliar) {
+      if (rev.equals(revista)) {
+        return true;
+      }
+    }
+    return false;
   }
 
   public void exibirColecao() {
