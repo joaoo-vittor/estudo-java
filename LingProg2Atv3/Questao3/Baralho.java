@@ -67,7 +67,7 @@ public class Baralho {
     boolean aux = true;
     int i = this.baralho.length-1;
 
-    while (aux) {
+    while (aux && i > 0) {
       if (!(this.baralho[i] == null)) {
         auxCarta = this.getCarta(i);
         baralho[i] = null;

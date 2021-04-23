@@ -12,11 +12,14 @@ public class MainQuestao3 {
     System.out.println("\nBuscando carta no Baralho: ");
     Carta carta1 = new Carta("COPAS", "REI");
     Carta carta2 = new Carta("ESPADA", "9");
+    Carta carta6 = new Carta("blabla", "bla");
 
     System.out.printf(" A carta %s de %s foi encontrada: %s \n",
     carta1.getNaipe(), carta1.getNome(), baralho.temCarta(carta1));
     System.out.printf(" A carta %s de %s foi encontrada: %s \n",
     carta2.getNaipe(), carta2.getNome(), baralho.temCarta(carta2));
+    System.out.printf(" A carta %s de %s foi encontrada: %s \n",
+    carta6.getNaipe(), carta6.getNome(), baralho.temCarta(carta6));
 
     System.out.println("\nRetirando cartas do topo baralho: ");
 
