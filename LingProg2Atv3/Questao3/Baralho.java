@@ -13,7 +13,7 @@ public class Baralho {
     this.baralho = new Carta[56];
     for (int i = 0; i < this.nipes.length; i++) {
       for (int j = 0; j < this.nomeCarta.length; j++) {
-        this.baralho[index] = new Carta(nipes[i], nomeCarta[j]);
+        this.baralho[index] = new Carta(nomeCarta[j], nipes[i]);
         index++;
       }
       this.baralho[index] = new Carta("CORINGA", "CORINGA");
