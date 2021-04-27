@@ -1,7 +1,7 @@
 public class Board {
 
-  public static final String BOARD  = " ";
-  public static final String QUEEN = "D";
+  public static final String BOARD  = "  ";
+  public static final String QUEEN = "👸";
   public String[][] board;
   private int colunas = 8;
   private int linhas = 8;
@@ -10,6 +10,9 @@ public class Board {
     board = new String[8][8];
   }
 
+  /*
+    inicio() -> cria um tabuleiro vazio.
+  */
   public void inicio() {
     for (int i = 0; i < 8; i++) {
       for (int j = 0; j < 8; j++) {
@@ -18,6 +21,9 @@ public class Board {
     }
   }
 
+  /*
+    imprimir() -> retorna a string do tabuleiro
+  */
   public String imprimir() {
     StringBuilder sb = new StringBuilder();
 
@@ -25,7 +31,7 @@ public class Board {
     for (int c = 0; c < this.colunas; c++) {
       sb.append("  ");
       sb.append(c);
-      sb.append(" ");
+      sb.append("  ");
     }
 
     sb.append(linhaDiv());
@@ -47,10 +53,13 @@ public class Board {
     return sb.toString();
   }
 
+  /*
+    linhaDiv() -> cria um linha de divisão para o tabuleiro.
+  */
   private String linhaDiv() {
     String linhaDivisao = "";
     for (int i = 0; i < this.colunas; i++) {
-      linhaDivisao += "+---";
+      linhaDivisao += "+----";
       if (i == this.colunas-1) {
         linhaDivisao += "+";
       }
